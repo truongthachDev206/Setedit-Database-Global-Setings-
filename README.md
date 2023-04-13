@@ -16,6 +16,7 @@ debug.sf.nobootanimation = 1
 • Sau đó khởi động lại máy là tận hưởng thành quả nhé !
 
 # Cài Đặt Nâng Cao ( Chủ Yếu Tăng Hiệu Suất )
+
 • Tăng Mật Độ Điểm Ảnh Trên Màn Hình 
 display_density_forced = 209
 
@@ -25,6 +26,7 @@ boot.fps = 25 ( 25 là fps, tốc độ khung hình khi khởi động máy, ví
 debug.sf.nobootanimation = 1
 
 • Giảm Thời Gian Sử Dụng Pin - Giảm Hiệu Suất Sử Dụng CPU
+
 wifi.supplicant_scan_interval = 120 ( giúp tăng thời gian giữa các lần quét WiFi, tiết kiệm pin và tốc độ CPU )
 
 • Tối Ưu Game - Kiết Xuất Thư Viện Đồ Hoạ OpenGL < Skia > 
@@ -53,7 +55,7 @@ windowsmgr.max_events_per_sec = 100
 af.resampler.quality = 255
 mpq.audio.decode = true
 
-• Tăng Chất Lượng Internet
+• Tăng Chất Lượng Internet 
 net.ipv4.ip_no_pmtu_disc = 0
 net.ipv4.route.flush = 1
 net.ipv4.tcp_ecn = 0
